@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TesteFilmes.Filmes.AllTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 11.889 s <<< FAILURE! - in TesteFilmes.Filmes.AllTests
+buscarDiretorFilmes(TesteFilmes.Filmes.test.BuscaFilmeGoogle)  Time elapsed: 10.215 s  <<< FAILURE!
+java.lang.AssertionError: Connection refused: connect
+	at TesteFilmes.Filmes.test.BuscaFilmeGoogle.buscarDiretorFilmes(BuscaFilmeGoogle.java:51)
+
